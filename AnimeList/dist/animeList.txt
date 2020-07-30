@@ -1,0 +1,783 @@
+7 Deadly Sins
+24
+true
+7 Deadly Sins 2
+4
+true
+7 Deadly Sins 3
+24
+true
+7 Deadly Sins 4
+24
+true
+A Sister's All You Need
+12
+true
+Acchi Kocchi
+12
+true
+Aho Girl
+12
+true
+Ajin
+13
+true
+Ajin 2
+13
+true
+Akame ga Kill!
+24
+true
+Angel Beats!
+13
+true
+Another
+12
+true
+Arifureta Shokugyou de Sekai Saikyou
+13
+true
+Asobi Asobase
+12
+true
+Assassination Classroom
+22
+true
+Assassination Classroom 2
+25
+true
+Assassins Pride
+12
+true
+Astra Lost in Space
+12
+true
+Bakemonogatari
+15
+true
+Baki
+26
+true
+Beastars
+12
+true
+Beatless
+20
+true
+Beatless Final Stage
+4
+true
+Bem
+12
+true
+Bleach
+366
+true
+Blood Blockade Battlefront
+12
+true
+Blood Blockade Battlefront & Beyond
+12
+true
+Blue Exorcist
+25
+true
+Boarding School Juliet
+12
+true
+Bofuri
+12
+true
+Boku no Hero Academia
+13
+true
+Boku no Hero Academia 2
+25
+true
+5cm Per Second
+3
+true
+Boku no Hero Academia 3
+25
+true
+Boku no Hero Academia 4
+25
+true
+Boku wa Tomodachi ga Sukunai
+12
+true
+Boku wa Tomodachi ga Sukunai 2
+12
+true
+Bokutachi wa Benkyou ga Dekinai
+13
+true
+Btooom!
+12
+true
+Bungou Stray Dogs
+12
+true
+Bungou Stray Dogs 2
+12
+true
+Bungou Stray Dogs 3
+12
+true
+Busou Shoujo Machiavellianism
+12
+true
+Charlotte
+13
+true
+Choyoyu!
+12
+true
+Chuunibyou demo Koi ga Shitai!
+12
+true
+Chuunibyou demo Koi ga Shitai! 2
+12
+true
+Clockwork Planet
+12
+true
+Compulsive Gambler
+12
+true
+Compulsive Gambler 2
+12
+true
+Cop Craft
+12
+true
+Darling in the FranXX
+24
+true
+Darwin's Game
+11
+true
+Date A Live
+12
+true
+Date A Live 2
+10
+true
+Date A Live 3
+12
+true
+Death Note
+37
+true
+Demon King Daimao
+12
+true
+Demon Slayer
+26
+true
+Devilman: Crybaby
+10
+true
+Devils Line
+12
+true
+Domestic Girlfriend
+12
+true
+Dr. Stone
+24
+true
+Erased
+12
+true
+Eromanga-sensei
+12
+true
+Fairy Tail
+175
+true
+Fairy Tail (2014)
+102
+true
+Fire Force
+24
+true
+Free!
+12
+true
+Free! 2
+13
+true
+Free! 3
+12
+true
+Fruit of Grisaia
+13
+true
+Gabriel DropOut
+12
+true
+Gamers!
+12
+true
+Gleipnir
+13
+true
+Goblin Slayer
+12
+true
+God Eater
+13
+true
+Guilty Crown
+22
+true
+Hachi-nan tte, Sore wa Nai deshou!
+12
+true
+Hajimete no Gal
+10
+true
+Hamefura
+12
+true
+Hanamonogatari
+5
+true
+Hataage! Kemono Michi
+12
+true
+Hataraku Maou-sama!
+13
+true
+Hello World
+1
+true
+Hensuki
+12
+true
+High School DxD
+12
+true
+High School DxD 2
+12
+true
+High School DxD 3
+12
+true
+Highschool of the Dead
+12
+true
+Hikaru no Go
+75
+true
+How Heavy Are the Dumbbells You Lift?
+12
+true
+How Not to Summon a Demon Lord
+12
+true
+Hunter x Hunter
+62
+true
+Hunter x Hunter (2011)
+70
+false
+If Her Flag Breaks
+13
+true
+In Another World With My Smartphone
+12
+true
+In/Spectre
+12
+true
+Infinite Dendrogram
+13
+true
+Interspecies Reviewers
+12
+true
+InuYasha
+167
+true
+InuYasha: Kanketsu-hen
+26
+true
+Inuyashiki
+11
+true
+Iroduku: The World in Colors
+13
+true
+Isekai Cheat Magician
+12
+true
+Jibaku Shounen Hanako-kun
+12
+true
+Jinsei
+13
+true
+K-On!
+13
+true
+K-On!! 2
+26
+true
+Kaguya-sama: Love is War
+12
+true
+Kaguya-sama: Love is War 2
+12
+true
+Kakushigoto
+12
+true
+Keijo!!!!!!!!
+12
+true
+Kill la Kill
+24
+true
+Killing Bites
+12
+true
+Kizumonogatari
+3
+true
+Koe de Oshigoto!
+2
+true
+Kokoro Connect
+13
+true
+Konosuba!
+10
+true
+Konosuba! 2
+10
+true
+Kore wa Zombie Desu ka?
+12
+true
+Kore wa Zombie Desu ka? of the Dead
+10
+true
+Koyomimonogatari
+12
+true
+Kuroko no Basket
+25
+true
+Kuroko no Basket 2
+25
+true
+Kuroko no Basket 3
+25
+true
+Land of the Lustrous
+12
+true
+Love Lab
+13
+true
+Love and Lies
+12
+true
+Machikado Mazoku
+12
+true
+Made in Abyss
+13
+true
+Mahou Shoujo Site
+12
+true
+Maid Sama!
+26
+true
+Mairimashita! Iruma-kun
+23
+true
+Maou-sama, Retry!
+12
+true
+Maoyuu Maou Yuusha
+12
+true
+Masamune-kun no Revenge
+12
+true
+Megalo Box
+13
+true
+Mirai Nikki
+26
+true
+Miss Kobayashi's Dragon Maid
+13
+true
+Mob Psycho 100
+12
+true
+Mob Psycho 100 2
+13
+true
+Monogatari Series: Second Season
+26
+true
+Monster Musume
+12
+true
+Monthly Girls' Nozaki-kun
+12
+true
+Motto To LOVE-Ru
+12
+true
+Myriad Colors Phantom World
+13
+true
+Naruto: Shippuuden
+100
+false
+Nekomonogatari: Kuro
+4
+true
+Nekopara
+12
+true
+Net-juu no Susume
+10
+true
+Netoge no Yome wa Onnanoko ja Nai to Omotta?
+12
+true
+Nisekoi
+20
+true
+Nisekoi:
+12
+true
+Nisemonogatari
+11
+true
+No Game No Life
+12
+true
+No Guns Life
+12
+true
+Nobunaga-sensei no Osanazuma
+12
+true
+Noragami
+12
+true
+Noragami Aragoto
+13
+true
+One Piece
+800
+false
+One Punch Man
+12
+true
+One Punch Man 2nd Season
+12
+true
+Oniichan dakedo Ai sae Areba Kankeinai yo ne!
+12
+true
+Orange
+13
+true
+Ore wo Suki nano wa Omae dake ka yo
+12
+true
+Oreimo
+16
+true
+Oreimo 2
+13
+true
+Osake wa Fuufu ni Natte kara
+13
+true
+Ousama Game The Animation
+12
+true
+Overlord
+13
+true
+Overlord II
+13
+true
+Owarimonogatari
+12
+true
+Owarimonogatari 2
+7
+true
+Parasyte
+24
+true
+Pet
+13
+true
+Plastic Memories
+13
+true
+Plunderer
+24
+true
+Princess Connect!
+13
+true
+Prison School
+12
+true
+Quintessential Quintuplets
+12
+true
+Rakudai Kishi no Cavalry
+12
+true
+Re:Zero kara Hajimeru Isekai Seikatsu
+25
+true
+ReLIFE
+13
+true
+Renai Boukun
+12
+true
+Rikei ga Koi ni Ochita no de Shoumei shitemita
+12
+true
+SNAFU
+13
+true
+SNAFU 2
+13
+true
+Saenai Heroine no Sodatekata
+12
+true
+Saenai Heroine no Sodatekata 2
+11
+true
+Saint Seiya
+114
+true
+Sakamoto Desu ga?
+12
+true
+Sakura-sou no Pet na Kanojo
+24
+true
+Satsuriku no Tenshi
+16
+true
+Scum's Wish
+12
+true
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+13
+true
+Senyuu
+13
+true
+Senyuu 2
+13
+true
+Seton Academy: Join the Pack!
+12
+true
+Shigatsu wa Kimi no Uso
+22
+true
+Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+12
+true
+Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru
+12
+true
+Shingeki no Kyojin
+25
+true
+Shingeki no Kyojin 2
+12
+true
+Shingeki no Kyojin 3
+12
+true
+Shingeki no Kyojin 3 1/2
+10
+true
+Shinmai Maou no Testament
+12
+true
+Shinmai Maou no Testament Burst
+10
+true
+Shokugeki no Souma
+24
+true
+Shokugeki no Souma: Ni no Sara
+13
+true
+Sirius
+12
+true
+Slam Dunk
+101
+true
+Somali to Mori no Kamisama
+12
+true
+Sorcerous Stabber Orphen
+13
+true
+Steins;Gate
+24
+true
+Steins;Gate 0
+23
+true
+Strike the Blood
+24
+true
+Strike the Blood II
+8
+true
+Tate no Yuusha no Nariagari
+25
+true
+Tejina-senpai
+12
+true
+Tensei shitara Slime Datta Ken
+24
+true
+The Ancient Magus' Bride
+24
+true
+The Master of Ragnarok & Blesser of Einherjar
+12
+true
+The Ones Within
+12
+true
+To LOVE-Ru Darkness
+12
+true
+To LOVE-Ru Darkness 2
+12
+true
+To the Abandoned Sacred Beasts
+12
+true
+Toaru Kagaku no Accelerator
+12
+true
+Tokyo Ghoul
+12
+true
+Tokyo Ghoul ?A
+12
+true
+Tokyo Ghoul:re
+12
+true
+Tokyo Ghoul:re 2
+12
+true
+Toradora
+25
+true
+Tower of God
+13
+true
+Trinity Seven
+12
+true
+Tsugumomo
+12
+true
+Tsukimonogatari
+4
+true
+Tsurezure Children
+12
+true
+Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?
+12
+true
+Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai
+12
+true
+Unbreakable Machine-Doll
+12
+true
+Vinland Saga
+24
+true
+Violet Evergarden
+13
+true
+Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
+12
+true
+Wise Man's Grandchild
+12
+true
+Wotaku ni Koi wa Muzukashii
+11
+true
+Yakusoku no Neverland
+12
+true
+Yamada-kun to 7-nin no Majo
+12
+true
+Yesterday wo Utatte
+12
+true
+Yosuga no Sora: In Solitude, Where We Are Least Alone
+12
+true
+Youjo Senki
+12
+true
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+12
+true
+Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita
+12
+true
+Zankyou no Terror
+11
+true
+Zero no Tsukaima
+13
+true
+Zero no Tsukaima F
+12
+true
+Zero no Tsukaima: Futatsuki no Kishi
+12
+true
+Zero no Tsukaima: Princesses no Rondo
+12
+true
+Zoku Owarimonogatari
+6
+true
+Zombieland Saga
+12
+true
+Uma Musume
+13
+true

@@ -1,0 +1,12 @@
+aabc
+1
+true
+aaa
+1
+true
+abc
+7
+true
+xyz
+1
+true
